@@ -10,5 +10,9 @@
     "region4": {
         "id": "4",
         "name": "dai_tsukioka2"
+    },
+    "region3": {
+        "id": "3",
+        "name": "dai_tsukioka2"
     }
 }
