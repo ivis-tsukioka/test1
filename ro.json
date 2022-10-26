@@ -2,5 +2,9 @@
     "region1": {
         "id": "1",
         "name": "dai_tsukioka"
+    },
+    "region2": {
+        "id": "2",
+        "name": "dai_tsukioka2"
     }
 }
